@@ -7,8 +7,8 @@ const MyButton = () => {
     return <View>
         <Text>Button to Signup</Text>
         <Button 
-            title="Signup"
-            color="#FADBAD"
+            title="poo"
+            color="pink"
             
         />
     </View>
@@ -16,3 +16,4 @@ const MyButton = () => {
 }
 
 export default MyButton; 
+
